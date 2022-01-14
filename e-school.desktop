@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=E-SCHOOL
+Exec=/opt/E-SCHOOL/e-school %U
+Terminal=false
+Type=Application
+Icon=e-school.png
+StartupWMClass=E-SCHOOL
+Comment= E-SCHOOL CAMBODIA. ជាគេហទំព័រសម្រាប់ រៀនគួរត្រៀមប្រលងបាក់ឌុប តាម Online
+MimeType=x-scheme-handler/myapp;x-scheme-handler/e-school;
+Categories=Online education;
